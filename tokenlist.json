@@ -15,3 +15,20 @@
         }
   ]
 }
+{
+      "address": "TY5H3DoHddBa3N3hTYJ2EEgZqQVp6onHvr",
+      "symbol": "ALB",
+      "name": "GreenTree",
+      "decimals": 6,
+      "logoURI": "https://cdn.skuola.net/news_foto/2017/tema-alberi.jpg",
+      "homepage": "https://x.com/GreenTree_TRX",
+      "existingMarkets": [
+          {
+              "source": "SUNSWAP",
+              "pairs": [
+                  "ALB/TRX",
+              ]
+          },
+          
+    ]
+}
